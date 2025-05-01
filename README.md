@@ -45,4 +45,4 @@ To run all the files smoothly, the following packages have to be installed:
 6. sklearn
 7. warnings
 
-If not installed, these files can be added by running the code `pip install (package name)` in the terminal. q
+If not installed, these files can be added by running the code `pip install (package name)` in the terminal.
