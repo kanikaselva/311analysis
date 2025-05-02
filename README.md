@@ -42,7 +42,9 @@ To run all the files smoothly, the following packages have to be installed:
 3. scikit
 4. matplotlib
 5. plotly
-6. sklearn
-7. warnings
+6. seaborn
+7. sklearn
+8. xgboost
+9. warnings
 
 If not installed, these files can be added by running the code `pip install (package name)` in the terminal.
