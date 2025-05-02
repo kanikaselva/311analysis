@@ -27,11 +27,12 @@ We hope to increase efficiency by way of predicting the amount of time it will t
 * Go to `https://data.wprdc.org/dataset/311-data/resource/29462525-62a6-45bf-9b5e-ad2e1c06348d` and download 311 Data in csv format and add it to the Data folder of this repository locally.
 * Run `0. FilterData.ipynb` to filter the dataset to the most recent 5 years
 * Run the following files in order to clean, perform EDA and analysis using machine learning models:
-  * 1. CleanData.ipynb
-  * 2. EDA.ipynb
-  * 3. NeighborhoodAnalysis.ipynb
-  * 4. PredictTimeTaken.ipynb
-    5. SeasonalForecast.ipynb
+  * CleanData.ipynb
+  * EDA.ipynb
+  * NeighborhoodAnalysis.ipynb
+  * PredictTimeTaken.ipynb
+  * SeasonalForecast.ipynb
+  * BiasAudit.ipynb
 
 ## Packages to Install:
 
